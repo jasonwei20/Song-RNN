@@ -12,7 +12,9 @@ Neural network based on [Torch RNN](https://github.com/jcjohnson/torch-rnn) by J
 Below is a test example for the hip hop genre with the root word "you" and a temperature of 0.5
 
 You can see it for the city of the shit
+
 I gotta see the game of your hands
+
 The power on the floor is the only one moving and will think I would be
 I want to be gonna get a real so last
 And she know I have to pay and get like you can be
