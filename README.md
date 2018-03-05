@@ -9,7 +9,7 @@ In this project, we created an end-to-end application that uses deep learning te
 Neural network based on [Torch RNN](https://github.com/jcjohnson/torch-rnn) by Justin Johnson. We trained on relative small datasets for each genre (~3MB), as shown in the repository. Trained weights are not available due to the their large sizes. 
 
 ## Testing sample
-Below is a test example for the hip hop genre with the root word "you" and a temperature of 0.5
+Below is a test example for the hip hop genre with the root word "you" and a temperature of 0.5:
 
 You can see it for the city of the shit
 
